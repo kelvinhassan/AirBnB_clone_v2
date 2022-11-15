@@ -315,5 +315,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Edwin Ngera** <[edwinngera](https://github.com/edwinngera)>
+* **Kelvin Ngera** <[Kelvihassan](https://github.com/kelvinhassan)>
 
